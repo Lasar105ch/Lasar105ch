@@ -2,10 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lazartech_&color=blueviolet&style=for-the-badge)
 
-## Lazartech's GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Lazartech_&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazartech_&layout=compact&theme=tokyonight)
-
 ---
 
 ### 🔗 Connect with me
