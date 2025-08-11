@@ -8,14 +8,6 @@
 
 ---
 
-<!-- Stats Row -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lazartech_&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazartech_&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
 <!-- Social Row -->
 <p align="center">
   <a href="https://www.tiktok.com/@lazartech_">
@@ -26,25 +18,6 @@
   </a>
   <a href="https://xdaforums.com/m/itsnotlazar.13027601/">
     <img src="https://img.shields.io/badge/XDA%20Developers-2DAAE9?style=for-the-badge&logo=xdadevelopers&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<!-- Fun GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-</p>
-
----
-
-<!-- Pinned Repos -->
-<p align="center">
-  <a href="https://github.com/Lazartech_/YOUR_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lazartech_&repo=YOUR_REPO&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/Lazartech_/ANOTHER_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lazartech_&repo=ANOTHER_REPO&theme=tokyonight"/>
   </a>
 </p>
 
