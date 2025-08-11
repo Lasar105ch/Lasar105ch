@@ -11,10 +11,6 @@
 
 ---
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xqOTUwcnd3ZTFxN2d4aDFoZTV1amE0N3Jvdnl0eW92cXV4ZDRkMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-
----
-
 ### 📌 Pinned Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lazartech_&repo=YOUR_REPO&theme=tokyonight)](https://github.com/Lazartech_/YOUR_REPO)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lazartech_&repo=ANOTHER_REPO&theme=tokyonight)](https://github.com/Lazartech_/ANOTHER_REPO)
