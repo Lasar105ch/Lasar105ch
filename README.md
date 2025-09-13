@@ -3,7 +3,6 @@
 <h1 align="center">Lazartech_</h1>
 <p align="center">
   Developer and TikTok creator.<br>
-  Creator of QuantumX Client. <br>
   You gonna find my ports or stupid projects here.
 </p>
 
