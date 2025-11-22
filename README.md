@@ -13,7 +13,7 @@
   <a href="https://www.tiktok.com/@lazartech_">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
-  <a href="https://steamcommunity.com/id/itsnotlazar/">
+  <a href="https://steamcommunity.com/id/lazartech/">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
   </a>
   <a href="https://xdaforums.com/m/itsnotlazar.13027601/">
