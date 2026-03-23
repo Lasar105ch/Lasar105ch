@@ -31,13 +31,6 @@ currently:
   - Building AeroOS 🚀
   - Designing UI/UX 🎨
   - Creating content 🎬
-  💫 What I Do
-<p>
-
-🧠 Build custom OS ideas (AeroOS)
-🎨 Design smooth & aesthetic interfaces
-🎥 Post tech content
-⚡ Make random but cool projects
 
 </p>
 🛠 Tech Stack
