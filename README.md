@@ -1,28 +1,29 @@
-<!-- Profile README for Lazartech_ -->
+name: Generate Snake
 
-<h1 align="center">Lazartech_</h1>
-<p align="center">
-  Developer and TikTok creator.<br>
-  You gonna find my ports or stupid projects here.
-</p>
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
----
-
-<!-- Social Row -->
-<p align="center">
-  <a href="https://www.tiktok.com/@lazartech_">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
-  <a href="https://steamcommunity.com/id/lazartech/">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
-  </a>
-  <a href="https://xdaforums.com/m/itsnotlazar.13027601/">
-    <img src="https://img.shields.io/badge/XDA%20Developers-2DAAE9?style=for-the-badge&logo=xdadevelopers&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Thanks for visiting my profile ✨</i>
-</p>
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Lazartech_
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
