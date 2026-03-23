@@ -25,7 +25,6 @@ pronouns: he/him
 aesthetic:
   - soft ✨
   - pastel 🎀
-  - anime inspired 🌸
 
 currently:
   - Building AeroOS 🚀
