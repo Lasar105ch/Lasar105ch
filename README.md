@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/YOUR_IMAGE.png" width="120" />
-</p>
-
-<p align="center">
   <b>🌸 Soft • Creative • Developer 🌸</b>
 </p>
 
@@ -53,13 +49,6 @@ currently:
   </a>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Lazar105ch/Lazar105ch/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
