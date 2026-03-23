@@ -36,7 +36,7 @@ currently:
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,linux,css,html" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,linux,css,html,java,batch" />
 </p>
 
 ---
