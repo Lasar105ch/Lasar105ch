@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>🌸 Soft • Creative • Developer 🌸</b>
+  <b>• Developer • AeroOS Founder •</b>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ---
 
-## 🌸 About Me
+## • About Me
 
 ```yaml
 name: Lazar (LazarTeh)
@@ -21,19 +21,15 @@ role: Software Engineer & Creator
 location: Serbia 🇷🇸
 pronouns: he/him
 
-aesthetic:
-  - soft ✨
-  - pastel 🎀
-
 currently:
-  - Building AeroOS 🚀
-  - Designing UI/UX 🎨
-  - Creating content 🎬
+  - Building AeroOS 
+  - Designing UI/UX 
+  - Creating content 
 ```
 
 ---
 
-## 🛠 Tech Stack
+## • Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,linux,css,html,java" />
@@ -41,7 +37,7 @@ currently:
 
 ---
 
-## 🌙 Connect With Me
+## • Connect With Me
 
 <p align="center">
   <a href="https://www.tiktok.com/@lazartech_">
