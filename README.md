@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vibe-Calm%20%26%20Creative-ff9aa2?style=for-the-badge">
   <img src="https://img.shields.io/badge/Focus-AeroOS-f6c1b5?style=for-the-badge">
 </p>
 
