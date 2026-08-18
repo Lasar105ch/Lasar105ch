@@ -18,7 +18,7 @@
 name: Lazar (LazarTeh)
 role: Software Engineer & Creator
 location: Serbia 🇷🇸
-pronouns: he/him
+pronouns: She/Her
 
 currently:
   - Building AeroOS 
