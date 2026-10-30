@@ -1,52 +1,21 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF9AA2&center=true&vCenter=true&lines=✨+LazarTeh+✨;Developer+%26+Creator;Building+EternalOS+🚀;Designing+Aesthetic+UI+🎨" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <b>• Developer • EternalOS Founder •</b>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Lazar / Lena"></picture>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AeroOS-f6c1b5?style=for-the-badge">
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="28.572%" alt=""></picture><a href="https://www.tiktok.com/@lazartech_"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="15.488%" alt="tiktok"></picture></a><a href="https://discord.gg/7VDNrzjYbU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://x.com/Lazartech0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="10.814%" alt="x"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="28.572%" alt=""></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-## • About Me
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-```yaml
-name: Lazar (LazarTeh)
-role: Software Engineer & Creator
-location: Serbia 🇷🇸
-pronouns: She/Her
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-currently:
-  - Building EternalOS 
-  - Designing UI/UX 
-  - Creating content 
-```
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-## • Tech Stack
+<a href="https://example.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/Lasar105ch?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,linux,css,html,java" />
-</p>
+<a href="https://metawka.github.io/expressive-profile/?from=Lasar105ch"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
----
-
-## • Connect With Me
-
-<p align="center">
-  <a href="https://www.tiktok.com/@lazartech_">
-    <img src="https://img.shields.io/badge/TikTok-ff9aa2?style=for-the-badge&logo=tiktok&logoColor=white">
-  </a>
-</p>
-
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff9aa2&height=100&section=footer"/>
-</p>
+</div>
