@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF9AA2&center=true&vCenter=true&lines=✨+LazarTeh+✨;Developer+%26+Creator;Building+AeroOS+🚀;Designing+Aesthetic+UI+🎨" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF9AA2&center=true&vCenter=true&lines=✨+LazarTeh+✨;Developer+%26+Creator;Building+EternalOS+🚀;Designing+Aesthetic+UI+🎨" />
 </h1>
 
 <p align="center">
-  <b>• Developer • AeroOS Founder •</b>
+  <b>• Developer • EternalOS Founder •</b>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ location: Serbia 🇷🇸
 pronouns: She/Her
 
 currently:
-  - Building AeroOS 
+  - Building EternalOS 
   - Designing UI/UX 
   - Creating content 
 ```
