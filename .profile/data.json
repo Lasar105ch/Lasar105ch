@@ -1,7 +1,7 @@
 {
- "key": "538acd09",
+ "key": "628e83a7",
  "stars": 0,
- "contributions": 33,
+ "contributions": 34,
  "repos": 6,
  "followers": 2,
  "languages": [],
@@ -94,17 +94,21 @@
    {
     "c": 4,
     "day": 24,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 25,
     "today": true
    },
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 1,
-  "longest": 1
+  "current": 2,
+  "longest": 2
  },
  "pins": [
   {
